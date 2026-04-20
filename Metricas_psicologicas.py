@@ -380,7 +380,7 @@ def compute_metrics(user_dialog_turns, agent_dialog_turns):
 
 def main():
     # Leer CSV
-    data = pd.read_csv("simulaciones_conversacion.csv")
+    data = pd.read_csv("resultados/simulaciones_conversacion.csv")
     
     results = []
     for row in data.itertuples():
@@ -405,7 +405,7 @@ def main():
     data = pd.concat([data, results_df], axis=1)
 
     # Guardar en nuevo CSV
-    data.to_csv("simulaciones_conversacion_resultados.csv", index=False)
+    data.to_csv("resultados/simulaciones_conversacion_resultados.csv", index=False)
 
 if __name__ == "__main__":    
     main()
