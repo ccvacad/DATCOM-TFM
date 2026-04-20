@@ -1,0 +1,45 @@
+#parte 1# April 29 User: hola, no me encuentro del todo bien 17:57
+Bot: ¡Hola! Soy menteScopiaBot, tu bot de referencia para información sobre salud mental dirigida a adolescentes. Puedo notar que no te sientes bien. Estoy aquí para escuchar y ayudar en lo que pueda. ¿Quieres compartir un poco más sobre lo que está pasando? 😊
+User: no me siento comprendido 17:59
+Bot: Siento que estés pasando por esto. A veces es complicado sentirse entendido, pero estoy aquí para escucharte. ¿Hay algo en particular que quieras compartir o algo que te esté molestando? Estoy aquí para ayudarte. 😊
+#Comentario#:/ El uso repetido de frases como “¡Aquí estoy para ayudarte!” le quita naturalidad a la conversación. Recomendamos no abusar de este tipo de coletillas para que no suene tan automático. / #fin comentario#
+User: es que no termino de conectar, siento que muchas veces mis amigos hablan tonterías que no me terminan de interesar 18:05
+Sé que puede ser super frustrante cuando sientes que no encajas con tus amigos. A veces, es normal que tengamos diferentes gustos. ¿Hay algo que realmente te apasione o que te interese un montón? Quizás podríamos pensar en maneras de que lo compartas con ellos o encontrar a otros que tengan intereses parecidos. 😊
+User: sí, me gusta mucho el ping pong. 18:07
+Bot: ¡Qué chido que te guste el ping pong! 😊 Es un deporte muy divertido y una gran forma de hacer nuevos amigos. ¿Has pensado en unirte a un club o grupo de ping pong en tu zona? Podría ser una buena manera de conectar con personas que comparten tu pasión. Si quieres, puedo ayudarte a encontrar información sobre clubes o eventos de ping pong cerca de ti. 😊
+User: vale, vivo en alcalá de los gazules 18:08
+Bot: ¡Increíble! He encontrado algunos lugares y eventos de ping pong cerca de Alcalá de los Gazules que podrían ser de tu interés: Espero que encuentres algo que te encante y que disfrutes del ping pong. ¡Pásala bien! 😊
+#Fin parte 1#
+#Comentario#: /En general, el chatbot va demasiado rápido a dar pautas o soluciones, sin haber mostrado un interés real por entender primero (conversación 1). Esto puede generar una sensación de incomprensión o de que se le está respondiendo con algo demasiado general. Antes de ofrecer soluciones, sería importante dar espacio a que la persona pueda hablar más, expresarse y sentirse escuchada. Por eso, pensamos que al principio las
+respuestas deberían ser más breves, abiertas y enfocadas en explorar mejor lo que le está pasando al usuario. Esto permitiría que la persona viviera algo más parecido a una conversación real. Además, es clave que el chatbot muestre una curiosidad clínica genuina por lo que le ocurre a la persona./ #fin comentario#
+#Inicio parte 2 # User: Mi prima tiene tdah,¿tendrías algún consejo para ayudarle?
+bot:
+TDAH en adultos: consejos para ayudar a personas con déficit de atención (https://www.diariofernenino.com/psicologia/autoayuda/tdah-en-adultos-consejos-para-ayud ar-a-personas-con-deficit-de-atención/) Consejos sobre cómo manejar el TDAH en adultos.
+[Conjunto de herramientas de apoyo para el TDAH] (https://magazine.medlineplus.gov/es/art%C3%A0culo/conjunto-de-herramientas-de-apoyopara-el-tdah/) Herramientas prácticas y recursos para sortear obstáculos comunes.
+Cómo Tratar a una Persona con TDAH: Guía Práctica y Consejos Efectivos Estrategias y consejos prácticos para ayudar a quienes tienen TDAH.
+[5 formas de apoyar a alguien con TDAH Psyciencia] (https://www.psyciencia.com/5-formas-de-apoyar-a-alguien-con-tdah/) Formas de apoyo para personas con TDAH.
+[Que No Decirle a una Persona con TDAH: 10 Consejos Clave] (https://psicologisysalud.com.es/que-no-decir-a-una-persona-con-tdah/) Consejos sobre cómo interactuar de manera efectiva con personas con TDAH.
+Espero que estos recursos te ayuden a apoyar a tu prima. Si necesitas más info, no dudes en preguntar. 😊
+#FIN parte 2# #Comentario#: /Nunca debe enlazar a contenidos que no pertenezcan a menteScopia, debe aprovechar cuando enlace contenido y que sean de menteScopia. Chatbot va demasiado rápido a dar pautas o soluciones, sin haber mostrado un interés real por entender primero. Esto puede generar una sensación de incomprensión o de que se le está respondiendo con algo demasiado general. Debería dar más espacio al usuario para explicar la situación y mostrar más curiosidad antes de redirigir a un recurso/ #fin comentario#
+#parte 3# Usuario: Estoy harto, me acabo de pelear con mi profesor y le he gritado. No quiero ir más al instituto – 18:49
+Mentescopia_bot: Sé que puede ser super frustrante después de una pelea con tu profe. 😔 A veces, las emociones son un lío, especialmente cuando estamos estresados. Recuerda que todos nos equivocamos y lo clave es cómo lo manejamos después. Tal vez podrías intentar hablar con tu profe cuando estés más calmado para aclarar las cosas. También es buena idea contarle a alguien de confianza cómo te sientes, ya sea un amigo, un familiar o un consejero escolar. Si necesitas más consejos o solo quieres desahogarte, aquí estoy para escucharte. 😊 18:49
+
+Usuario: Quiero desahogarme, lo odio – 18:51
+Mentescopia_bot: Sé que puede ser difícil sentirse así, a veces es bueno hablarlo para aliviarnos un poco. 😔 Estoy aquí para escucharte, cuéntame más sobre lo que estás sintiendo. No estás solo en esto. 18:51
+#fin parte 3#
+#parte 4#
+Si – 18:45
+Mentescopia_bot:
+¡Súper! La comunicación es fundamental en cualquier relación.
+Aquí te dejo algunos tips que pueden ser útiles:
+Escucha Activa: Trata de escuchar lo que tu pareja dice sin interrumpir. A veces, solo necesitan que les prestes atención.
+Expresa tus Sentimientos: Habla sobre cómo te sientes de manera tranquila y sincera. Usa frases como "Me siento..." en vez de "Tú siempre...".
+
+Busca Soluciones Juntos: En lugar de centrarte en el problema, intenta encontrar una solución en equipo. Pregunta "¿Cómo podemos resolver esto?".
+Tómate un Respiro: Si la discusión se calienta, tómate un momento para relajarte antes de seguir hablando.
+Sé Paciente: Las emociones pueden ser complicadas, así que ten paciencia contigo mismo y con tu pareja.
+Si necesitas más consejos o quieres charlar más sobre esto, ¡aquí estoy para ayudarte! 😊
+18:45
+#fin parte 4#
+#comentario# Debería hacer referencia a los contenidos de mentescopia, es una oportunidad perdida, porque muchos de los tips (pantallazo 4) que ofrece están bien y están alineados con el contenido de menteScopia. Sería ideal que pudiera aprovechar esas respuestas para redirigir a la persona a recursos que ya están validados y disponibles. Por ejemplo, podría decir algo como: “Esto también lo puedes encontrar explicado aquí”, y añadir un enlace directo a la sección correspondiente de menteScopia.
+#fin comentario#

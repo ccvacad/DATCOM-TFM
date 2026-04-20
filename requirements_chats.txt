@@ -1,0 +1,18 @@
+# Para soporte de modelos GGUF locales
+llama-cpp-python>=0.2.72
+# Requerimientos para el script de chat con LLMs y RAG
+transformers>=4.40.0
+langchain>=0.1.20
+sentence-transformers>=2.6.1
+faiss-cpu>=1.7.4
+pandas>=2.2.2
+PyPDF2>=3.0.1
+beautifulsoup4>=4.12.3
+openai>=1.30.1
+huggingface_hub>=0.23.0
+tqdm>=4.66.4
+requests>=2.31.0
+langchain-community>=0.0.30
+langchain-huggingface>=0.0.6
+rpy2>=3.6.4
+deep-translator=>1.11.4
